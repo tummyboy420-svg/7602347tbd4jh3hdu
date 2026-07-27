@@ -2236,34 +2236,6 @@ window.DEFAULT_OS_CONFIG = {
                 "type": "storage",
                 "payload": [
                     {
-                        "id": "CRACOE-main-folder",
-                        "name": "CRACOE-main",
-                        "displayName": "CRACOE-main [1]",
-                        "iconType": "folder",
-                        "description": "",
-                        "iconSVG": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"#F9E79F\" d=\"M10 4H4c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.11-.9-2-2h-8l-2-2z\"/></svg>",
-                        "badge": null,
-                        "shortcutAddress": null,
-                        "action": {
-                            "type": "openWindow",
-                            "payload": "window-work-CRACOE-main"
-                        }
-                    },
-                    {
-                        "id": "CRACOEnew-main-folder",
-                        "name": "CRACOEnew-main",
-                        "displayName": "CRACOEnew-main [2]",
-                        "iconType": "folder",
-                        "description": "",
-                        "iconSVG": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"#F9E79F\" d=\"M10 4H4c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.11-.9-2-2h-8l-2-2z\"/></svg>",
-                        "badge": null,
-                        "shortcutAddress": null,
-                        "action": {
-                            "type": "openWindow",
-                            "payload": "window-work-CRACOEnew-main"
-                        }
-                    },
-                    {
                         "id": "cervical-cancer-main-folder",
                         "name": "cervical cancer patient app",
                         "displayName": "cervical cancer patient app [3]",
@@ -2278,20 +2250,6 @@ window.DEFAULT_OS_CONFIG = {
                         }
                     },
                     {
-                        "id": "coding-ai-main-folder",
-                        "name": "coding-ai-main",
-                        "displayName": "coding-ai-main [4]",
-                        "iconType": "folder",
-                        "description": "",
-                        "iconSVG": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"#F9E79F\" d=\"M10 4H4c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.11-.9-2-2h-8l-2-2z\"/></svg>",
-                        "badge": null,
-                        "shortcutAddress": null,
-                        "action": {
-                            "type": "openWindow",
-                            "payload": "window-work-coding-ai-main"
-                        }
-                    },
-                    {
                         "id": "parkinson-folder",
                         "name": "parkinson disease app",
                         "displayName": "parkinson disease app [5]",
@@ -2303,76 +2261,6 @@ window.DEFAULT_OS_CONFIG = {
                         "action": {
                             "type": "openWindow",
                             "payload": "window-work-parkinson-app"
-                        }
-                    },
-                    {
-                        "id": "parkinson-non-edited-folder",
-                        "name": "parkinson non edited",
-                        "displayName": "parkinson non edited [6]",
-                        "iconType": "folder",
-                        "description": "",
-                        "iconSVG": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"#F9E79F\" d=\"M10 4H4c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.11-.9-2-2h-8l-2-2z\"/></svg>",
-                        "badge": null,
-                        "shortcutAddress": null,
-                        "action": {
-                            "type": "openWindow",
-                            "payload": "window-work-parkinson-non-edited"
-                        }
-                    },
-                    {
-                        "id": "platform-develop-folder",
-                        "name": "platform-develop",
-                        "displayName": "platform-develop [7]",
-                        "iconType": "folder",
-                        "description": "",
-                        "iconSVG": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"#F9E79F\" d=\"M10 4H4c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.11-.9-2-2h-8l-2-2z\"/></svg>",
-                        "badge": null,
-                        "shortcutAddress": null,
-                        "action": {
-                            "type": "openWindow",
-                            "payload": "window-work-platform-develop"
-                        }
-                    },
-                    {
-                        "id": "song-player-main-folder",
-                        "name": "song-player-main",
-                        "displayName": "song-player-main [8]",
-                        "iconType": "folder",
-                        "description": "",
-                        "iconSVG": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"#F9E79F\" d=\"M10 4H4c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.11-.9-2-2h-8l-2-2z\"/></svg>",
-                        "badge": null,
-                        "shortcutAddress": null,
-                        "action": {
-                            "type": "openWindow",
-                            "payload": "window-work-song-player-main"
-                        }
-                    },
-                    {
-                        "id": "voice-assisstance-folder",
-                        "name": "voice assisstance",
-                        "displayName": "voice assisstance [9]",
-                        "iconType": "folder",
-                        "description": "",
-                        "iconSVG": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"#F9E79F\" d=\"M10 4H4c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.11-.9-2-2h-8l-2-2z\"/></svg>",
-                        "badge": null,
-                        "shortcutAddress": null,
-                        "action": {
-                            "type": "openWindow",
-                            "payload": "window-work-voice-assisstance"
-                        }
-                    },
-                    {
-                        "id": "web-folder",
-                        "name": "web",
-                        "displayName": "web [10]",
-                        "iconType": "folder",
-                        "description": "",
-                        "iconSVG": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"#F9E79F\" d=\"M10 4H4c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.11-.9-2-2h-8l-2-2z\"/></svg>",
-                        "badge": null,
-                        "shortcutAddress": null,
-                        "action": {
-                            "type": "openWindow",
-                            "payload": "window-work-web"
                         }
                     },
                     {
@@ -2784,94 +2672,6 @@ window.DEFAULT_OS_CONFIG = {
                         }
                     }
                 ]
-            }
-        },
-        "window-work-CRACOE-main": {
-            "title": "CRACOE-main",
-            "width": 800,
-            "height": 600,
-            "top": "15%",
-            "left": "25%",
-            "content": {
-                "type": "storage",
-                "payload": []
-            }
-        },
-        "window-work-CRACOEnew-main": {
-            "title": "CRACOEnew-main",
-            "width": 800,
-            "height": 600,
-            "top": "15%",
-            "left": "25%",
-            "content": {
-                "type": "storage",
-                "payload": []
-            }
-        },
-        "window-work-coding-ai-main": {
-            "title": "coding-ai-main",
-            "width": 800,
-            "height": 600,
-            "top": "15%",
-            "left": "25%",
-            "content": {
-                "type": "storage",
-                "payload": []
-            }
-        },
-        "window-work-parkinson-non-edited": {
-            "title": "parkinson non edited",
-            "width": 800,
-            "height": 600,
-            "top": "15%",
-            "left": "25%",
-            "content": {
-                "type": "storage",
-                "payload": []
-            }
-        },
-        "window-work-platform-develop": {
-            "title": "platform-develop",
-            "width": 800,
-            "height": 600,
-            "top": "15%",
-            "left": "25%",
-            "content": {
-                "type": "storage",
-                "payload": []
-            }
-        },
-        "window-work-song-player-main": {
-            "title": "song-player-main",
-            "width": 800,
-            "height": 600,
-            "top": "15%",
-            "left": "25%",
-            "content": {
-                "type": "storage",
-                "payload": []
-            }
-        },
-        "window-work-voice-assisstance": {
-            "title": "voice assisstance",
-            "width": 800,
-            "height": 600,
-            "top": "15%",
-            "left": "25%",
-            "content": {
-                "type": "storage",
-                "payload": []
-            }
-        },
-        "window-work-web": {
-            "title": "web",
-            "width": 800,
-            "height": 600,
-            "top": "15%",
-            "left": "25%",
-            "content": {
-                "type": "storage",
-                "payload": []
             }
         }
     },

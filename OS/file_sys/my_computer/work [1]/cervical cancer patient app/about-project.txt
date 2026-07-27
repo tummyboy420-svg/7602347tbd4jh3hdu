@@ -1,3 +1,0 @@
-# Cervical Cancer Care PWA
-
-A comprehensive Progressive Web Application for cervical cancer patient management and care, supporting both doctors and patients with role-based access control.
