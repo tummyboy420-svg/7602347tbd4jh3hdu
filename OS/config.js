@@ -1590,139 +1590,139 @@ window.DEFAULT_OS_CONFIG = {
             "content": {
                 "type": "storage",
                 "payload": [
-                        {
-                            "id": "poster-file-0",
-                            "name": "1776694691364.jpeg",
-                            "iconType": "imageFile",
-                            "description": "",
-                            "iconSVG": "",
-                            "action": {
-                                "type": "openImage",
-                                "payload": "file_sys/my_computer/posters/1776694691364.jpeg",
-                                "title": "1776694691364.jpeg"
-                            }
-                        },
-                        {
-                            "id": "poster-file-1",
-                            "name": "1777365530463.jpeg",
-                            "iconType": "imageFile",
-                            "description": "",
-                            "iconSVG": "",
-                            "action": {
-                                "type": "openImage",
-                                "payload": "file_sys/my_computer/posters/1777365530463.jpeg",
-                                "title": "1777365530463.jpeg"
-                            }
-                        },
-                        {
-                            "id": "poster-file-2",
-                            "name": "1777365693095.jpeg",
-                            "iconType": "imageFile",
-                            "description": "",
-                            "iconSVG": "",
-                            "action": {
-                                "type": "openImage",
-                                "payload": "file_sys/my_computer/posters/1777365693095.jpeg",
-                                "title": "1777365693095.jpeg"
-                            }
-                        },
-                        {
-                            "id": "poster-file-3",
-                            "name": "1777647933089.jpeg",
-                            "iconType": "imageFile",
-                            "description": "",
-                            "iconSVG": "",
-                            "action": {
-                                "type": "openImage",
-                                "payload": "file_sys/my_computer/posters/1777647933089.jpeg",
-                                "title": "1777647933089.jpeg"
-                            }
-                        },
-                        {
-                            "id": "poster-file-4",
-                            "name": "1777648098490.jpeg",
-                            "iconType": "imageFile",
-                            "description": "",
-                            "iconSVG": "",
-                            "action": {
-                                "type": "openImage",
-                                "payload": "file_sys/my_computer/posters/1777648098490.jpeg",
-                                "title": "1777648098490.jpeg"
-                            }
-                        },
-                        {
-                            "id": "poster-file-5",
-                            "name": "1777648947620.jpeg",
-                            "iconType": "imageFile",
-                            "description": "",
-                            "iconSVG": "",
-                            "action": {
-                                "type": "openImage",
-                                "payload": "file_sys/my_computer/posters/1777648947620.jpeg",
-                                "title": "1777648947620.jpeg"
-                            }
-                        },
-                        {
-                            "id": "poster-file-6",
-                            "name": "1777649027988.jpeg",
-                            "iconType": "imageFile",
-                            "description": "",
-                            "iconSVG": "",
-                            "action": {
-                                "type": "openImage",
-                                "payload": "file_sys/my_computer/posters/1777649027988.jpeg",
-                                "title": "1777649027988.jpeg"
-                            }
-                        },
-                        {
-                            "id": "poster-file-7",
-                            "name": "1778078742574.jpeg",
-                            "iconType": "imageFile",
-                            "description": "",
-                            "iconSVG": "",
-                            "action": {
-                                "type": "openImage",
-                                "payload": "file_sys/my_computer/posters/1778078742574.jpeg",
-                                "title": "1778078742574.jpeg"
-                            }
-                        },
-                        {
-                            "id": "poster-file-8",
-                            "name": "1778078829282.jpeg",
-                            "iconType": "imageFile",
-                            "description": "",
-                            "iconSVG": "",
-                            "action": {
-                                "type": "openImage",
-                                "payload": "file_sys/my_computer/posters/1778078829282.jpeg",
-                                "title": "1778078829282.jpeg"
-                            }
-                        },
-                        {
-                            "id": "poster-file-9",
-                            "name": "1778078905477.jpeg",
-                            "iconType": "imageFile",
-                            "description": "",
-                            "iconSVG": "",
-                            "action": {
-                                "type": "openImage",
-                                "payload": "file_sys/my_computer/posters/1778078905477.jpeg",
-                                "title": "1778078905477.jpeg"
-                            }
-                        },
-                        {
-                            "id": "poster-file-10",
-                            "name": "Black White Bold Minimalist Music World Tour Poster.jpg",
-                            "iconType": "imageFile",
-                            "description": "",
-                            "iconSVG": "",
-                            "action": {
-                                "type": "openImage",
-                                "payload": "file_sys/my_computer/posters/Black White Bold Minimalist Music World Tour Poster.jpg",
-                                "title": "Black White Bold Minimalist Music World Tour Poster.jpg"
-                            }
+                    {
+                        "id": "poster-file-0",
+                        "name": "1776694691364.jpeg",
+                        "iconType": "imageFile",
+                        "description": "",
+                        "iconSVG": "",
+                        "action": {
+                            "type": "openImage",
+                            "payload": "file_sys/my_computer/posters/1776694691364.jpeg",
+                            "title": "1776694691364.jpeg"
                         }
-                    ]
+                    },
+                    {
+                        "id": "poster-file-1",
+                        "name": "1777365530463.jpeg",
+                        "iconType": "imageFile",
+                        "description": "",
+                        "iconSVG": "",
+                        "action": {
+                            "type": "openImage",
+                            "payload": "file_sys/my_computer/posters/1777365530463.jpeg",
+                            "title": "1777365530463.jpeg"
+                        }
+                    },
+                    {
+                        "id": "poster-file-2",
+                        "name": "1777365693095.jpeg",
+                        "iconType": "imageFile",
+                        "description": "",
+                        "iconSVG": "",
+                        "action": {
+                            "type": "openImage",
+                            "payload": "file_sys/my_computer/posters/1777365693095.jpeg",
+                            "title": "1777365693095.jpeg"
+                        }
+                    },
+                    {
+                        "id": "poster-file-3",
+                        "name": "1777647933089.jpeg",
+                        "iconType": "imageFile",
+                        "description": "",
+                        "iconSVG": "",
+                        "action": {
+                            "type": "openImage",
+                            "payload": "file_sys/my_computer/posters/1777647933089.jpeg",
+                            "title": "1777647933089.jpeg"
+                        }
+                    },
+                    {
+                        "id": "poster-file-4",
+                        "name": "1777648098490.jpeg",
+                        "iconType": "imageFile",
+                        "description": "",
+                        "iconSVG": "",
+                        "action": {
+                            "type": "openImage",
+                            "payload": "file_sys/my_computer/posters/1777648098490.jpeg",
+                            "title": "1777648098490.jpeg"
+                        }
+                    },
+                    {
+                        "id": "poster-file-5",
+                        "name": "1777648947620.jpeg",
+                        "iconType": "imageFile",
+                        "description": "",
+                        "iconSVG": "",
+                        "action": {
+                            "type": "openImage",
+                            "payload": "file_sys/my_computer/posters/1777648947620.jpeg",
+                            "title": "1777648947620.jpeg"
+                        }
+                    },
+                    {
+                        "id": "poster-file-6",
+                        "name": "1777649027988.jpeg",
+                        "iconType": "imageFile",
+                        "description": "",
+                        "iconSVG": "",
+                        "action": {
+                            "type": "openImage",
+                            "payload": "file_sys/my_computer/posters/1777649027988.jpeg",
+                            "title": "1777649027988.jpeg"
+                        }
+                    },
+                    {
+                        "id": "poster-file-7",
+                        "name": "1778078742574.jpeg",
+                        "iconType": "imageFile",
+                        "description": "",
+                        "iconSVG": "",
+                        "action": {
+                            "type": "openImage",
+                            "payload": "file_sys/my_computer/posters/1778078742574.jpeg",
+                            "title": "1778078742574.jpeg"
+                        }
+                    },
+                    {
+                        "id": "poster-file-8",
+                        "name": "1778078829282.jpeg",
+                        "iconType": "imageFile",
+                        "description": "",
+                        "iconSVG": "",
+                        "action": {
+                            "type": "openImage",
+                            "payload": "file_sys/my_computer/posters/1778078829282.jpeg",
+                            "title": "1778078829282.jpeg"
+                        }
+                    },
+                    {
+                        "id": "poster-file-9",
+                        "name": "1778078905477.jpeg",
+                        "iconType": "imageFile",
+                        "description": "",
+                        "iconSVG": "",
+                        "action": {
+                            "type": "openImage",
+                            "payload": "file_sys/my_computer/posters/1778078905477.jpeg",
+                            "title": "1778078905477.jpeg"
+                        }
+                    },
+                    {
+                        "id": "poster-file-10",
+                        "name": "Black White Bold Minimalist Music World Tour Poster.jpg",
+                        "iconType": "imageFile",
+                        "description": "",
+                        "iconSVG": "",
+                        "action": {
+                            "type": "openImage",
+                            "payload": "file_sys/my_computer/posters/Black White Bold Minimalist Music World Tour Poster.jpg",
+                            "title": "Black White Bold Minimalist Music World Tour Poster.jpg"
+                        }
+                    }
+                ]
             }
         },
         "window-work-1-c1-projects-2021-2026-1-ipl-themification-3": {
@@ -2265,8 +2265,8 @@ window.DEFAULT_OS_CONFIG = {
                     },
                     {
                         "id": "cervical-cancer-main-folder",
-                        "name": "cervical-cancer-main",
-                        "displayName": "cervical-cancer-main [3]",
+                        "name": "cervical cancer patient app",
+                        "displayName": "cervical cancer patient app [3]",
                         "iconType": "folder",
                         "description": "",
                         "iconSVG": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"#F9E79F\" d=\"M10 4H4c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.11-.9-2-2h-8l-2-2z\"/></svg>",
@@ -2274,7 +2274,7 @@ window.DEFAULT_OS_CONFIG = {
                         "shortcutAddress": null,
                         "action": {
                             "type": "openWindow",
-                            "payload": "window-work-cervical-cancer-main"
+                            "payload": "window-work-cervical-cancer"
                         }
                     },
                     {
@@ -2293,8 +2293,8 @@ window.DEFAULT_OS_CONFIG = {
                     },
                     {
                         "id": "parkinson-folder",
-                        "name": "parkinson",
-                        "displayName": "parkinson [5]",
+                        "name": "parkinson disease app",
+                        "displayName": "parkinson disease app [5]",
                         "iconType": "folder",
                         "description": "",
                         "iconSVG": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"#F9E79F\" d=\"M10 4H4c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.11-.9-2-2h-8l-2-2z\"/></svg>",
@@ -2302,7 +2302,7 @@ window.DEFAULT_OS_CONFIG = {
                         "shortcutAddress": null,
                         "action": {
                             "type": "openWindow",
-                            "payload": "window-work-parkinson"
+                            "payload": "window-work-parkinson-app"
                         }
                     },
                     {
@@ -2373,34 +2373,6 @@ window.DEFAULT_OS_CONFIG = {
                         "action": {
                             "type": "openWindow",
                             "payload": "window-work-web"
-                        }
-                    },
-                    {
-                        "id": "cervical-cancer-app-folder",
-                        "name": "cervical cancer patient app",
-                        "displayName": "cervical cancer patient app",
-                        "iconType": "folder",
-                        "description": "",
-                        "iconSVG": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"#F9E79F\" d=\"M10 4H4c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.11-.9-2-2h-8l-2-2z\"/></svg>",
-                        "badge": null,
-                        "shortcutAddress": null,
-                        "action": {
-                            "type": "openWindow",
-                            "payload": "window-work-cervical-cancer"
-                        }
-                    },
-                    {
-                        "id": "parkinson-app-folder",
-                        "name": "parkinson disease app",
-                        "displayName": "parkinson disease app",
-                        "iconType": "folder",
-                        "description": "",
-                        "iconSVG": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"#F9E79F\" d=\"M10 4H4c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.11-.9-2-2h-8l-2-2z\"/></svg>",
-                        "badge": null,
-                        "shortcutAddress": null,
-                        "action": {
-                            "type": "openWindow",
-                            "payload": "window-work-parkinson-app"
                         }
                     },
                     {
@@ -2812,6 +2784,94 @@ window.DEFAULT_OS_CONFIG = {
                         }
                     }
                 ]
+            }
+        },
+        "window-work-CRACOE-main": {
+            "title": "CRACOE-main",
+            "width": 800,
+            "height": 600,
+            "top": "15%",
+            "left": "25%",
+            "content": {
+                "type": "storage",
+                "payload": []
+            }
+        },
+        "window-work-CRACOEnew-main": {
+            "title": "CRACOEnew-main",
+            "width": 800,
+            "height": 600,
+            "top": "15%",
+            "left": "25%",
+            "content": {
+                "type": "storage",
+                "payload": []
+            }
+        },
+        "window-work-coding-ai-main": {
+            "title": "coding-ai-main",
+            "width": 800,
+            "height": 600,
+            "top": "15%",
+            "left": "25%",
+            "content": {
+                "type": "storage",
+                "payload": []
+            }
+        },
+        "window-work-parkinson-non-edited": {
+            "title": "parkinson non edited",
+            "width": 800,
+            "height": 600,
+            "top": "15%",
+            "left": "25%",
+            "content": {
+                "type": "storage",
+                "payload": []
+            }
+        },
+        "window-work-platform-develop": {
+            "title": "platform-develop",
+            "width": 800,
+            "height": 600,
+            "top": "15%",
+            "left": "25%",
+            "content": {
+                "type": "storage",
+                "payload": []
+            }
+        },
+        "window-work-song-player-main": {
+            "title": "song-player-main",
+            "width": 800,
+            "height": 600,
+            "top": "15%",
+            "left": "25%",
+            "content": {
+                "type": "storage",
+                "payload": []
+            }
+        },
+        "window-work-voice-assisstance": {
+            "title": "voice assisstance",
+            "width": 800,
+            "height": 600,
+            "top": "15%",
+            "left": "25%",
+            "content": {
+                "type": "storage",
+                "payload": []
+            }
+        },
+        "window-work-web": {
+            "title": "web",
+            "width": 800,
+            "height": 600,
+            "top": "15%",
+            "left": "25%",
+            "content": {
+                "type": "storage",
+                "payload": []
             }
         }
     },
