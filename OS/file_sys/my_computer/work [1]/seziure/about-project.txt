@@ -1,0 +1,3 @@
+# Seizure Detection
+
+A project focused on the detection and monitoring of seizures using advanced AI models.

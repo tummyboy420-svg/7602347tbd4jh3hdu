@@ -1,0 +1,1771 @@
+0 window-messenger
+1 Welcome!
+2 IDLE
+3 </div><span>
+4 start-menu-separator
+5 calc(
+6 layout_closed
+7 lineCap
+8 EXITING
+9 16px "
+10 OS_LIVE_CONFIG
+11 #2684ff
+12 animationend
+13 shortcut
+14 searchQuery
+15 27YGmzBf
+16 pop
+17 historyStep
+18 internalPath
+19 ready
+20 putImageData
+21 fallbackIcon
+22 data_failed
+23 David Guetta
+24 figma-progress-bar
+25 https://i.ytimg.com/vi/cWxViAbqUrE/maxresdefault.jpg
+26 max
+27 icons/messenger.png
+28 has-unread
+29 HlOmb6jDs4k
+30 </div><div class="sidebar-separator"></div><div class="sidebar-details">
+31 MKTO
+32 icons/figma/layer.svg
+33 nudge_config.json
+34 find
+35 cos
+36 .showcase-layer-item
+37 OK Not To Be OK
+38 Half an Orange
+39 rich
+40 40px
+41 readyState
+42 #1a1a1a
+43 rich-notification-card
+44 pendingArm
+45 file
+46 updateMusicNotificationIcon
+47 renotifyIntervalMs
+48 playsInline
+49 track_ended
+50 welcomeScreen
+51 refreshMessengerUI
+52 --black-overlay-fade-duration
+53 Madeon
+54 #ffcc00
+55 triggeredNudges
+56 name
+57 lineJoin
+58 buttonText
+59 DOMContentLoaded
+60 fallbackText
+61 warn
+62 .showcase-media-wrap
+63 windows
+64 OS: infocusmode set to TRUE
+65 style
+66 spinnerEl
+67 <div style="margin-top:8px;"><span class="loading-dots" style="font-size:14px;font-family:'VT323',monospace;color:#aaa;"><span>.</span><span>.</span><span>.</span></span></div>
+68 variables
+69 .title-bar-button
+70 surfaceRenotifyOnFirstFocus
+71 CLEARED @ 
+72 resize
+73 30%
+74 presentNotification
+75 
+                                <div class="messenger-empty-state">
+                                    <div class="messenger-empty-icon">💬</div>
+                                    <div>No messages yet</div>
+                                </div>
+                            
+76 Capsule Corp BIOS v4.51PGM, An Energy Star Ally
+77 K4IrOZnyV4Y
+78 randomUUID
+79 Error during screenshot download:
+80 fill
+81 icons/badge/custom/
+82 color:#08c
+83 attachUI
+84 webkitAudioContext
+85 ms ease-in-out
+86 Bruno Mars
+87 captureScreenshot
+88 data-deferred-src
+89 windows-container
+90 marquee 
+91 searchResults
+92 UnyLfqpyi94
+93 --boot-screen-content-padding-bottom
+94 Ctrl/Cmd + Z to undo
+95 window-ae-crash
+96 icons/badge/shortcut.png
+97 boxSizing
+98 connect
+99 img[src]
+100 isPlaying
+101 userAgent
+102 head
+103 px - 
+104 <div class="title-bar-button close-btn close-circle-btn"></div></div></div>
+105 window
+106 saveChatState
+107 script
+108 show-hint
+109 Over You
+110 " into chat "
+111 --fair-logo-offset-y
+112 %;width:
+113 fairBootContentFadeInSteps
+114 fig-retry-btn
+115 lottie
+116 .paint-tool-btn, .paint-color-btn
+117 --frontpane-opacity
+118 playing
+119 %c[Nudge Debug] visitedZeta set to TRUE after opening: 
+120 Part-Time Lover
+121 icons/plasticity.png
+122 match
+123 fairBootLoaderMarqueeSteps
+124 I am offline at the moment, I usually reply in a few hours. Check back soon!
+125 
+                                    <div class="showcase-comment">
+                                        <div class="showcase-comment-avatar">
+126 .taskbar-item[data-window-id="window-showcase"]
+127 cachedBlobs
+128 shutdownScreen
+129 toBlob
+130 icons/locked folder.png
+131 https://i.ytimg.com/vi/6YnuuSLncsA/maxresdefault.jpg
+132 %c[Nudge Debug] Resume nudge FIRING. seenResume=
+133 .storage-icon.selected
+134 lock-screen
+135 bomb_cleared
+136 
+                        <div class="showcase-avatars">
+                            <div class="showcase-avatar showcase-avatar-you">Y</div>
+                            <div class="showcase-avatar showcase-avatar-ishant">I</div>
+                        </div>
+                        <div class="showcase-comments-section">
+                            <div class="showcase-comments-header">Comments</div>
+                            <hr class="showcase-sidebar-separator">
+                            <div class="showcase-prop-empty">Select a plugin</div>
+                        </div>
+137 blob
+138 showcase-card
+139 beginPath
+140 buffering
+141 square
+142 --grid-line-color
+143 opacity 600ms ease-in-out
+144 screenshotData
+145 Silence (Illenium Remix)
+146 altKey
+147 .notification-badge
+148 color:#c80
+149 icons/figma_small.png
+150 reload
+151 offsetY
+152 toggleAnimations
+153 " not found.
+154 OS: Font 
+155 typing
+156 loop
+157 dblclick
+158 window-opening
+159 .video-controls
+160 .title-text
+161 Initializing Application...
+162 Linkin Park
+163 0.1
+164 read before first focus
+165 svg
+166 black-overlay
+167 renotifySource
+168 window-computer
+169 figma
+170 grab
+171 close
+172 height
+173 DOMLoaded
+174 icons/crash.png
+175 .messenger-contact-details
+176 #96DA8E
+177 overrides
+178 <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+179 flex:1;background:#fff;overflow:hidden;cursor:grab;position:relative;
+180 figRowLabels
+181 remote_music_next
+182 bootScreenWrapper
+183 %c[openPath] %cUnknown root folder: 
+184 them
+185 messenger-notification-icon
+186 focus_max_zoom
+187 replaceWith
+188 clientX
+189 %c[Renotify] FIRST-FOCUS surface for "
+190 window-showcase
+191 .mock-search-input
+192 .window
+193  icons/assets...
+194 mouseup
+195 Sunday
+196 scrollTop
+197 ext
+198 </div><span class="start-menu-item-label">
+199 Double click to open.
+200 session
+201 pointer
+202 rect
+203 naturalWidth
+204 block
+205 %c[Resurface] Contact "
+206 --boot-screen-padding-x
+207 <div class="storage-nav"><button class="back-button" disabled style="opacity: 0.5;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg></button><div class="address-bar-container"><span class="address-bar-label">Address</span><span class="address-bar">
+208 keydown
+209 deferredSrc
+210 marginTop
+211 videoRow
+212 .pause-icon
+213 #desktop-icons-container img, #taskbar img
+214 <img
+215 Command/Ctrl + Shift + S detected. Downloading screenshot...
+216 window-paint
+217 fallbackScale
+218 url
+219 ✕ Start dev-server.js
+220 image-viewer-spinner
+221 title
+222 cursor
+223 showcase
+224 recently
+225 scale(
+226 bootScreenBorderWidth
+227 appendChild
+228 ; }
+229 OS: getOrCreateBlobUrl failed:
+230 I'm online 👋
+231 %c[Resurface] Inserted resurface message for "
+232 --marquee-dist
+233 figma-progress-container
+234 div
+235 backgroundColor
+236 metaKey
+237 contactId
+238 toDataURL
+239 fonts
+240 m ago
+241 fairBootLoaderBlockMargin
+242 getBoundingClientRect
+243 pointerEvents
+244 "></iframe>
+245 /api/owner-status
+246 630078EHElgl
+247  / 
+248 Saved
+249 metadata
+250 action
+251 MESSAGING
+252 <span></span><span></span><span></span>
+253 pre-focus-blocker
+254 then
+255 contextmenu
+256 _figCol
+257 getMonth
+258 Firefox
+259 <span class="title-text">
+260 fairBootLoaderBlockGradientEnd
+261 toLocaleTimeString
+262 protected
+263 %c[openPath] %c
+264 log
+265 gesturestart
+266 icons/paint/capture.png
+267 ms ease, transform 
+268 Error during screenshot:
+269 August
+270 %c[Renotify] RE-ARMED from memory for "
+271 animationDelay
+272 January
+273 beforebegin
+274 .close-btn
+275  @ 
+276 transform 0.3s ease
+277 translateY(10px)
+278  months ago
+279 wallpaper-scanline
+280 paint
+281 --crt-scanline-visible-duration
+282 <div style="font-family: sans-serif; font-size: 16px; color: #888;">
+283 --crt-scanline-gap
+284 screenshot_
+285 reduce
+286 .taskbar-item[data-window-id="
+287 ) — out of focus mode. Timer still running; will resume when focused.
+288 comment
+289 opacity 0.3s ease
+290 .play-icon
+291 Gonna Be Good
+292 isMaximized
+293 Nudge "
+294 --vignette-overlay-img
+295 setBuffering
+296 OS: Caching 
+297 polygon
+298 , ~
+299 storage-icon
+300 energyStarOffsetY
+301 content
+302 Green Day
+303 fired
+304 button
+305 icons/paint/polygon.png
+306 sfx/click1.mp3
+307 -_ROFLCRlQc
+308 resolveTargetContact
+309 storage
+310 setVar
+311 position:absolute;left:
+312 Checking System Health...
+313 sfx/balloon.mp3
+314 fontSize
+315 from
+316 Racer
+317 display
+318 clearResurfaceTimers
+319 timeout
+320 [Nudge] Restored variables from session:
+321 openAssets/misc/energyStar.svg
+322 openImage
+323 h ago
+324 nodeType
+325 [BOOT TIMING][OS] bootfinished posted (+
+326 Charlotte Lawrence
+327 innerWidth
+328 ...
+329 showcase-fake-cursor
+330 template
+331 Blusher
+332 firstOpenLabel
+333 bootScreenInitialSize
+334 https://i.ytimg.com/vi/-_ROFLCRlQc/maxresdefault.jpg
+335 showcase-sidebar-header
+336 DEFAULT_OS_CONFIG
+337 color:#0a8;font-weight:bold
+338 <br>
+339 closest
+340 .video-time
+341 marginRight
+342 removeChild
+343 finally
+344 --grid-thickness
+345 #ff4444
+346 1rem
+347 s linear infinite
+348 #888
+349 opacity 0.5s ease-out
+350 right
+351 March
+352 figma-loader-overlay
+353 scrollWidth
+354 padding
+355 .prev-button
+356 visitedZeta
+357 December
+358 headerTitle
+359 replyLocked
+360 
+                        <div class="video-player-container">
+                            <div class="video-frame" style="position:relative;">
+                                <div class="asset-placeholder video-loading-overlay" style="position:absolute;top:0;left:0;width:100%;height:100%;z-index:2;background:#111;border:1px inset #555;display:flex;align-items:center;justify-content:center;">
+                                    <img data-blob-src="icons/video.png" class="vlc-loading-icon" alt="Loading video">
+                                </div>
+                                <video class="video-element">
+                                    Your browser does not support the video tag.
+                                </video>
+                            </div>
+                            <div class="video-controls">
+                                <button class="video-btn play-pause-btn" title="Play/Pause">
+                                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+                                </button>
+                                <div class="video-seek-container">
+                                    <input type="range" class="video-seek-bar" value="0" min="0" max="100" step="0.1">
+                                </div>
+                                <span class="video-time">00:00</span>
+                                <div class="video-volume-container">
+                                    <span class="video-btn mute-btn">
+                                        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+                                    </span>
+                                    <input type="range" class="video-volume-bar" min="0" max="1" step="0.1" value="1">
+                                </div>
+                            </div>
+                        </div>
+                    
+361 Conor Maynard
+362 images
+363 .messenger-messages
+364   Video Intern....................2017
+365 --brush-gap
+366 .notepad-textarea
+367 ms ease-out
+368 icons/notepad.png
+369 frontpane-overlay
+370 Pages
+371 .messenger-contacts
+372 .xp-balloon-tip
+373 cWxViAbqUrE
+374 ⏱ auto-relax in <b>
+375 imageContext
+376 floor
+377 transformOrigin
+378 code
+379 inactivity-debug-overlay
+380 --crt-scanline-thickness
+381 chatText
+382 icons/documents.png
+383 createOscillator
+384 chatStore
+385 window-minimizing
+386 insertAdjacentText
+387 minimize
+388 px, 0) scale(
+389 sign
+390 .mock-search-button
+391 #999
+392 hadRealReply
+393 color:#0a0;font-weight:bold
+394 
+                                        <div class="showcase-avatars">
+                                            <div class="showcase-avatar showcase-avatar-you">Y</div>
+                                            <div class="showcase-avatar showcase-avatar-ishant">I</div>
+                                        </div>
+                                        <div class="showcase-comments-section">
+                                            <div class="showcase-comments-header">Comments</div>
+                                            <hr class="showcase-sidebar-separator">
+395 .paint-color-btn
+396 flex
+397 href
+398 isFinite
+399 .content
+400 .window:not(.hidden)
+401 color:inherit
+402 removeAttribute
+403 taskbar-icon
+404 startValue
+405 relax_from_parent
+406 bootScreen
+407 %c[Resurface] Nudge "
+408 icons/video.png
+409 contacts
+410 Balloon sound blocked:
+411 bottom-right
+412 width:auto;max-width:550px;max-height:550px;object-fit:contain;display:block;
+413 globalCompositeOperation
+414 preventDefault
+415 0 1px 4px rgba(0,0,0,0.15)
+416 .card-action-bar
+417 checkPassiveTriggers
+418 matches
+419 ArrowLeft
+420 https://i.ytimg.com/vi/2GcphzXKNps/maxresdefault.jpg
+421 <div class="showcase-fake-cursor-icon"></div>
+422 2HvDoCe
+423 0.5
+424 download
+425 brush
+426 chatRestored
+427 animationData
+428 backend
+429 mousedown
+430 .showcase-row-label
+431 random
+432 music-buffering-spinner
+433 border-box
+434 .paint-container
+435 location
+436 checkEvent
+437 shiftKey
+438 24px
+439 dragged
+440 transition_perf_off
+441 boolean
+442 _recenterFigSelection
+443 icons/paint/rect.png
+444 createGain
+445 click-sound
+446 MANUEL
+447 getElementById
+448 gain
+449 %;top:
+450 behaviorOnClose
+451 music-eq
+452 trigger
+453 .storage-icon
+454 .messenger-header-chevron
+455 120px
+456 stopPropagation
+457 https://i.ytimg.com/vi/9gXP8wcICqQ/maxresdefault.jpg
+458 videoWidth
+459 stroke
+460 getImageData
+461 ArrowDown
+462 <div class="messenger-unread-indicator">
+463 OS: Loaded deferred asset from cache:
+464 separator
+465 .desktop-icon
+466 duration
+467 https://i.ytimg.com/vi/3ryk45IYJpk/maxresdefault.jpg
+468 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><rect x="2" y="6" width="20" height="14" rx="2" fill="#F9E79F"/><rect x="2" y="4" width="8" height="4" rx="1" fill="#D4AC0D"/></svg>
+469 .showcase-card-frame
+470 Frame
+471 50%
+472 Slayyyter
+473 rows
+474 Could not play shutdown sound:
+475 enter
+476 anNBvqzzbBk
+477 Click to play
+478 " read — waiting 
+479 getMessengerContacts
+480 isMe
+481 R3HAB
+482 now
+483 visible
+484 canvas
+485 Video
+486 find your way
+487 <iframe src="
+488 display:block;height:100%;object-fit:contain;margin:auto;opacity:1;
+489 overflow
+490 whiteSpace
+491 Virginia to Vegas
+492 .browser-address-bar-container
+493 openMessengerContact
+494 notepad_content_
+495 .start-menu-item-label
+496 triggerNudge
+497 mousemove
+498 <span class="submenu-arrow"></span>
+499 POST
+500 linkedin
+501 Tom Frane
+502 8vawd7fSzdA
+503 os_chat_state_v1
+504 _blank
+505 paddingTop
+506 showcase-zoom-wrapper
+507 cleared
+508 Friday
+509 
+C:\> LOAD_SCENE.EXE
+
+510 os_visitor_id
+511 HONNE
+512 #2e7d32
+513 innerText
+514 webm
+515 imageSmoothingQuality
+516 #paint-save-preset-btn
+517 fairBootScreen
+518 )'/></svg>
+519 has
+520 .back-button
+521 setupResurfacePending
+522 sin
+523 Kasbo
+524 display:flex;flex-direction:column;align-items:flex-start;gap:100px;padding:40px 60px;transform:translate(0px,0px) scale(1);transform-origin:0 0;
+525 openInitialMessengerContact
+526 fairBootLoaderBlockWidth
+527 number
+528 videoVolumeButtonScale
+529 Backspace
+530 fairBootLogoSize
+531 backend-reply
+532 fileTitle
+533 renotify
+534 20px
+535 --crt-scanline-show-max
+536 selected
+537 <svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+538 minY
+539 startsWith
+540 Cash Cash
+541 hasStartedPlaying
+542 inactivity
+543 hi, how is it going?
+544 HOVERING
+545 showcase-card-image
+546 showcase-row-frames
+547 cursor-css
+548   Sr. UX Designer.................2024-2025
+549 drawImage
+550 size
+551 delay
+552 OS: Min zoom reached
+553 deg)
+554 initialState
+555 2rem
+556 currentTime
+557 tool
+558 .image-viewer-dropzone
+559 deliveredNudgeIds
+560 PAINT_SESSION_DATA
+561 nextBtn
+562 pointerleave
+563 overlay
+564 path
+565 toggle
+566 Click
+567 transition_perf_on
+568 naturalHeight
+569 paint-tool-btn
+570 color:#c00
+571 icons/blender.png
+572 messenger
+573 getMinutes
+574 line
+575 getTime
+576 messenger-bubble
+577 Nudge config loaded:
+578 data-notif-key
+579 https://i.ytimg.com/vi/w-EoAXhKOLk/maxresdefault.jpg
+580 <img data-blob-src="icons/folder.png" style="width:100%;height:100%;object-fit:contain;">
+581 img[data-blob-src]
+582 activeElement
+583 some
+584 toFixed
+585 img
+586 .browser-dropdown.show
+587 ;">
+                                            <div class="card-loading-ph" style="min-width:200px;min-height:150px;max-width:550px;max-height:550px;width:auto;display:flex;align-items:center;justify-content:center;color:#555;font-family:'VT323',monospace;font-size:14px;">
+                                                Loading...
+                                            </div>
+                                        </div>
+                                    </div>
+588 default
+589 OS/
+590 142792QSBUWR
+591 deferred
+592 video
+593 rearmRenotifyFromMemory
+594 displayDuration
+595 image
+596 translateY(0)
+597 pow
+598 .storage-container
+599 --submenu-offset-y
+600 imageSmoothingEnabled
+601 powerOff
+602 Monday
+603 request_boot_capture
+604 #toolbar=0&navpanes=0&view=FitH
+605 classList
+606 fairBootLoaderTrackWidth
+607   UX Designer II..................2021-2023
+608 loadeddata
+609 374841RrHKfa
+610 reply
+611 Escape
+612 Search results
+613 September
+614 <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+615 .ae-banner-subtitle
+616 portfolio
+617 <img data-blob-src="icons/notidot.svg" alt="" draggable="false"><span class="notification-badge-count"></span>
+618 stopRenotify
+619 rgba(51, 51, 51, 0.5)
+620 open_window
+621 s before resurfacing "
+622 Say hi! I actually reply...
+623 " (chat: 
+624 [BOOT TIMING][OS] buildUIFromConfig (synchronous) took 
+625 difference
+626 calc(100vw - 
+627 music-playing
+628 background
+629 Don't Leave
+630 https://i.ytimg.com/vi/xqg76_GWXe0/maxresdefault.jpg
+631 value
+632 3rem
+633 Loading Hardware Settings...
+634 paint-crosshair
+635 Opens 
+636 icons/paint/undo.png
+637 OS: Building UI from deferred config...
+638 https://i.ytimg.com/vi/avlEK3PTvw8/maxresdefault.jpg
+639 All My Love
+640 Untitled - Notepad
+641 custom-cursor
+642 data-blob-src
+643 Navy Blue
+644 ) — 
+645 #fff
+646 frequency
+647 setItem
+648 config
+649 fairBootLoaderTrackHeight
+650 #crt-scanline-overlay::before { background-image: 
+651 topSpacing
+652 seenResume
+653 shortcutAddress
+654 messenger-action-tick
+655 <div class="rich-notification-avatar emoji-avatar">
+656 modal-template-protected
+657 Anonymous
+658 </span>
+659 --boot-screen-content-padding-right
+660 icons/paint/redo.png
+661 OS Critical Resources
+662 strokeStyle
+663 #FFFFFF
+664 prevBtn
+665 color
+666 setupInactivityTimer
+667 replace
+668 dragging
+669 </div>
+                                                </div>
+670 fillRect
+671 noopener,noreferrer
+672 unlocked
+673 passive_triggers
+674 TEXTAREA
+675 toString
+676 offsetWidth
+677 payloadUrl
+678 initializeNotepad
+679 setAttribute
+680 #00ff88
+681 parent
+682 span
+683 autoplay
+684 pause
+685 ms since begin_boot)
+686 .video-volume-bar
+687 icons/imageFile.png
+688 bootScreenAnimateDurationMs
+689 owGvGuTosHg
+690 nudges
+691 reject
+692 translate3d(
+693 Online
+694 --fair-boot-loader-block-gradient-start
+695 bootSequenceLineDelayMs
+696 https://i.ytimg.com/vi/HlOmb6jDs4k/maxresdefault.jpg
+697 offsetHeight
+698 &lt;
+699 Jason Derulo
+700 originalContent
+701 %c[Renotify] RE-ARMED from memory for backend reply (chat: 
+702 .messenger-details-designation
+703 showcase-overlay
+704 split
+705 currentFileId
+706 Passive Trigger Matched: 
+707 Mark Twain (Glacier Remix)
+708 display:flex;width:100%;height:100%;overflow:hidden;
+709 sine
+710 cover
+711 _selectFrame
+712 body
+713 play_welcome_sound
+714 start
+715 energyStarOffsetX
+716 </p>
+                                </div>
+                            </div>
+                        
+717 ignoreFocusMode
+718 [BOOT TIMING][OS] os_boot_settled posted (+
+719 <div class="figma-loader-icon">
+720 ⏱ auto-relax: <b>
+721 os_chat_last_seen_id
+722 parse
+723 originalRect
+724 mouseenter
+725 bootScreenContent
+726 key
+727 desktop-icon
+728 Delete
+729 _fairBootShowTime
+730 left
+731 Ishant
+732 opacity
+733 .xp-balloon-close
+734 addEventListener
+735 Ctrl/Cmd + Z to reset
+736 Battle Symphony
+737 showcase-sidebar-right
+738 PMivT7MJ41M
+739 bootScreenAnimateSteps
+740 unlock
+741 icons/folder.png
+742 position
+743 undefined
+744 Initializing GPU...
+745 imageData
+746 %27
+747 Recenter
+748 hypot
+749 .play-pause-btn
+750 onload
+751 save-preset
+752 <span style="color:#2e7d32"><span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#2e7d32;margin-right:5px;vertical-align:middle;position:relative;top:-2px"></span>
+753 cursor_resync
+754 setProperty
+755 lineWidth
+756 backgroundImage
+757 
+                                <a href="
+758 #f5f5f5
+759 mouseleave
+760 wallpapers/1.png
+761 px) scale(
+762 ) — 90s cadence re-anchored to now.
+763 start-menu-item-icon
+764 transform
+765 display:block;height:100%;object-fit:contain;margin:auto;opacity:1;transition:opacity 0.2s;
+766 openAssets/power button/highlight.png
+767 energy-star-logo
+768 .mute-btn
+769 icons/workfile.png
+770 color: yellow; font-weight: bold
+771 goToAndStop
+772 .paint-tool-btn[data-tool]
+773 585921ZjYlqT
+774 --fair-boot-loader-border-width
+775 Khalid
+776 error
+777 " target="_blank" rel="noopener"
+778 showcase-row-label
+779 OS: Sending focus message
+780 set
+781 artistEl
+782 prevTrack
+783 imageUrl
+784 
+                                                <div class="showcase-comment">
+                                                    <div class="showcase-comment-avatar">
+785 .video-element
+786 screenshot
+787 openUrl
+788 1845640JHPrBA
+789 tagName
+790 text/css
+791 free love
+792 scrollToBottom
+793 .music-player
+794 
+                        </div>
+                    </div>
+                    <iframe data-deferred-src="
+795 .notification-badge-count
+796 internet
+797 src
+798 bomb_active
+799 .next-button
+800 wallpaper-level
+801 --crt-scanline-opacity
+802 3840456DWnmBs
+803 isArray
+804 <div class="showcase-prop-empty">Select a frame</div>
+805 visibilitychange
+806 currentImageIndex
+807 gridX
+808 <span>Failed to load video</span>
+809 </div>
+                        <div class="rich-notification-message">
+810 transitionend
+811 10px
+812 Vois0RMtPHE
+813 createElement
+814 bgColor
+815 %c[Nudge Debug] Resume nudge BLOCKED — condition failed. seenResume=
+816 currentTrackIndex
+817 [BOOT TIMING][OS] captureBootDesktopForMonitor resolved in 
+818 .music-eq
+819 playBtn
+820 frontpane.webp
+821 false
+822 dragstart
+823 Bone Dry
+824 Marshmello
+825 Access Denied
+826 <div class="icon-bg">
+827 
+                <div class="xp-balloon-close">X</div>
+                <div class="xp-balloon-title">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="#3D5096"> <!-- XP Blueish color -->
+                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/>
+                    </svg>
+                    
+828 icons/badge/star.png
+829 author
+830 #000
+831 bump
+832 fig-recenter-btn
+833 OS: boot desktop capture failed; parent will re-request.
+834 isBuffering
+835 touch
+836 paddingBottom
+837 %c[Renotify] STARTED for "
+838 resume_seen_nudge
+839 onerror
+840 bind
+841 pressed
+842 top-right
+843 playsinline
+844 round
+845 owner-online
+846  has-link
+847 .notification-area
+848 ' fill='transparent'/><rect y='
+849 gif
+850 aspectRatio
+851 offsetLeft
+852 load
+853 </div>
+                                                    <div class="showcase-comment-text">
+854 April
+855 undo
+856 volume
+857 https://i.ytimg.com/vi/PuMz4v5PYKc/maxresdefault.jpg
+858 repeat
+859 _figRow
+860 localstorage
+861 osFileSysReady
+862 maximizable
+863 save
+864 loadingMarquee
+865 icons/paint/line.png
+866  href="
+867 debounceTimer
+868 preload
+869 d ago
+870 " style="width: 48px; height: 48px; margin-bottom: 5px; object-fit: contain;">
+871 querySelector
+872 </div>
+                                    <div class="messenger-contact-designation">
+873 offsetTop
+874 add
+875 crt-scanline-style
+876 4vEJXgQ
+877 playTrack
+878 crt-flicker
+879 classic
+880 lock
+881 --minimize-scale
+882 OS: infocusmode set to FALSE
+883 _figOpening
+884 RqcjBLMaWCg
+885 ODESZA
+886 Error loading file
+887 clock_msg_notify
+888 bootScreenPaddingY
+889 https://i.ytimg.com/vi/Vois0RMtPHE/maxresdefault.jpg
+890 relative
+891 slice
+892 window-recycle-bin
+893 text
+894 opacity 
+895 18px
+896 .status-bar
+897 stringify
+898 reArmed
+899 parentElement
+900 touchend
+901 window-image-viewer
+902 shutdown
+903 boxShadow
+904 <img src="icons/figma/layer.svg" class="showcase-layer-icon">
+905 message was read
+906 redo
+907 .card-loading-ph
+908 </div>
+                                </div>
+                                
+909 3px
+910 eraser
+911 getAttribute
+912 dev-complete-button
+913 paint-brush-dot
+914 paint-fill
+915 #316ac5
+916 isConnected
+917 folder
+918  conversation(s).
+919 .paint-canvas
+920 submenu
+921 abs
+922 parentNode
+923 icons/paint/startdrawing.png
+924 px)
+925 " alt="
+926 openAssets/contacts/anoop.jpg
+927 documents
+928 Auto-play blocked by browser policy
+929 auto
+930 function
+931 --fair-boot-loader-border-color
+932 row
+933 imageFile
+934 _playMedia
+935 paused
+936 settings
+937 0 0
+938 substring
+939 lineDashOffset
+940 gesturechange
+941 &amp;
+942 ADRENALINE
+943 null
+944 window-protected-generic
+945 search
+946 boot
+947 _resurface_
+948 startMenu
+949 RESET (activity)
+950 
+                        <div class="notepad-container">
+                            <div class="notepad-textarea" contenteditable="true" spellcheck="false"></div>
+                            <div class="notepad-statusbar">
+                                <span class="notepad-status-text">Ready</span>
+                                <span class="notepad-char-count"></span>
+                            </div>
+                        </div>
+                    
+951 ms (+
+952 .results-search-input
+953 22px
+954 hasStarted
+955  href="#"
+956 getRangeAt
+957 width:auto;display:block;cursor:pointer;
+958 startOffset
+959 zeta
+960 eOWLMN3jM1c
+961 icons/paint/fill.png
+962 sqrt
+963 description
+964 ENTERING
+965 .showcase-frame-label
+966 minX
+967 icons/paint/ellipse.png
+968 ↺ Refresh
+969 portrait
+970 Hold On Tight
+971 string
+972 time
+973 iframe
+974 window-recognitions-3
+975  characters
+976 6YnuuSLncsA
+977 openAssets/login.png
+978 nextTrack
+979 videoControlsScale
+980 Look at the Sky
+981 gestureend
+982 pointerType
+983 Error: Template "
+984 customBadges
+985 restore
+986 label
+987 --fair-boot-logo-size
+988 sort
+989 pointerrawupdate
+990 FIRED → auto_relax @ 
+991 </div>
+                                        <div class="showcase-media-wrap" style="background:
+992 .song-title
+993 sender
+994 backgroundPosition
+995 state
+996 displayName
+997 <div class="start-menu-item-icon">
+998 notificationId
+999 Nudge State Updated: 
+1000 .messenger-chat-header-name
+1001 focus_min_zoom
+1002 condition
+1003 gecko-native-cursor
+1004 r00ikilDxW4
+1005 bootText
+1006 https://i.ytimg.com/vi/r00ikilDxW4/maxresdefault.jpg
+1007 iconInlineStyle
+1008 fairBootLoaderMarqueeDurationMs
+1009 zIndex
+1010 NudgeManager suspended
+1011 messenger-details-link
+1012 querySelectorAll
+1013 <img src="
+1014 start-menu-bottom-right-container
+1015 togglePlay
+1016 color:#c00;font-weight:bold
+1017 clearRect
+1018 icons/badge/locked.png
+1019 figData
+1020 endValue
+1021 desktop
+1022 .album-art
+1023 fig-play-badge
+1024 RUqa-tm1Ams
+1025 Nathalie
+1026 color:#c084fc
+1027 %c[openPath] %cClicking file: 
+1028 flex-shrink:0;width:auto;
+1029 https://i.ytimg.com/vi/RUqa-tm1Ams/maxresdefault.jpg
+1030 startup_visible
+1031 OS: Video cached in background:
+1032 /api/send
+1033 storageKey
+1034 bufferWired
+1035 .messenger-chat-header-avatar
+1036 assign
+1037 blob:
+1038 mov
+1039 flatMap
+1040 https://i.ytimg.com/vi/ZbbTmR6Xaag/maxresdefault.jpg
+1041 window-internet
+1042 getPropertyValue
+1043 &gt;
+1044 .messenger-details-close
+1045 MAGIC!
+1046 options
+1047 [Music Player] Error 
+1048 https://i.ytimg.com/vi/Xm8UTv6LSf0/maxresdefault.jpg
+1049 theme
+1050 </div>
+                                <div class="showcase-media-wrap" style="background:
+1051 targetIconId
+1052 figRowSpacing
+1053 --video-controls-scale
+1054 Nudge variables initialized:
+1055 .title-bar
+1056 artist
+1057 Status 
+1058 OS: Image 
+1059 0rem
+1060 targetId
+1061 Animations 
+1062 GOvOj7meAfg
+1063 iconType
+1064 OS: Background video cache failed:
+1065 mp4
+1066 outline
+1067 http
+1068 <a class="fig-action-btn has-link" href="
+1069 resume
+1070 BjPJY08KyFU
+1071 Unsupported content type.
+1072 music-player-template
+1073 --boot-screen-padding-y
+1074 os_has_booted_v1
+1075 getSelection
+1076 --target-y
+1077 window-text-viewer
+1078 moveTo
+1079 onclick
+1080 , visitedZeta=
+1081 clientY
+1082 . Timer no longer running.
+1083 AudioContext
+1084 textContent
+1085 gridY
+1086 deltaY
+1087 animationType
+1088 http://localhost:3000/refresh
+1089 currentStorageKey
+1090 <img data-blob-src="icons/messenger.png" class="rich-notification-avatar" onerror="this.src='icons/folder.png'">
+1091 .showcase-card
+1092 strokeRect
+1093 [BOOT TIMING][OS] boot_complete received (+
+1094 Overlay build failed:
+1095 100%
+1096 showBalloon
+1097 position:fixed;inset:0;z-index:99999;
+1098 " target="_blank" rel="noopener noreferrer">
+1099 Heartbeat - Initial D
+1100 
+                                    <div class="card-action-bar">
+                                        <a class="fig-action-btn
+1101 map
+1102 --boot-screen-border-width
+1103 );">
+                            
+1104 paint-mode
+1105 6px
+1106 </h3>
+                                    <p class="showcase-card-desc">
+1107 </div>
+                            
+1108 1px solid #2684ff
+1109 1 Item, Double click to open.
+1110 lastUrl
+1111 play
+1112 getItem
+1113 image/png
+1114 width:28px;height:28px;object-fit:contain;
+1115 updatePlayButton
+1116 4.5rem
+1117 propertyName
+1118 xqg76_GWXe0
+1119 setLineDash
+1120 disable-animations
+1121 begin_boot
+1122 https://i.ytimg.com/vi/GOvOj7meAfg/maxresdefault.jpg
+1123 center
+1124 .title-bar-icon
+1125 bottom
+1126 createObjectURL
+1127 entries
+1128 
+                                <svg viewBox="0 0 24 24"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/></svg>
+                                LinkedIn
+                            
+1129 json
+1130 nudgeVariables
+1131 July
+1132 icons/plugins/figma_recall.png
+1133 isCollapsed
+1134 filter
+1135 lock-time
+1136 os_boot_settled
+1137  Items, Double click to open.
+1138 Booting System...
+1139 titleEl
+1140 frontpaneBlobUrl
+1141 taskbar
+1142 <svg xmlns='http://www.w3.org/2000/svg' width='1' height='
+1143 paint-eraser
+1144 clock
+1145 cssText
+1146 File not found
+1147 pdf
+1148 Notification
+1149 startButton
+1150 onClick
+1151 fairBootLogoOffsetY
+1152 " class="icon-badge" alt="
+1153 url("data:image/svg+xml,
+1154 <div class="title-bar-button maximize-btn maximize-circle-btn"></div>
+1155 crt-flicker-dim
+1156 ctrlKey
+1157 OS: Starting file_sys asset preloading (Enhanced Caching)...
+1158 Press Start 2P
+1159 .image-viewer-spinner
+1160 scanline-hidden
+1161 init
+1162 .start-button
+1163 Calculating 3D Vectors... OK
+1164 newer non-nudge message arrived
+1165 icons/notidot.svg
+1166  in 
+1167  data-blob-src=
+1168 every
+1169 currentVideoId
+1170 show
+1171 taskbar-item
+1172 translateX(-50%)
+1173 Copyright (C) Capsule Corp Industries, West City
+1174 get
+1175 fairBootLoaderBlockCount
+1176 <div class="sidebar-icon-large">
+1177 #70757a
+1178 VT323
+1179 %c[Renotify] tick SKIPPED for "
+1180 messenger-typing-indicator
+1181 </span><div class="title-bar-buttons"><div class="title-bar-button maximize-btn maximize-circle-btn"></div><div class="title-bar-button close-btn close-circle-btn"></div></div></div>
+1182 removeEventListener
+1183 #a00
+1184 paddingLeft
+1185 div[style*="width: 64px"]
+1186 
+                    <div class="rich-notification-app-icon" style="position:relative;width:40px;height:40px;flex-shrink:0;margin-top:14px;margin-left:16px;">
+                        <img data-blob-src="icons/messenger.png" alt="Messenger" style="width:100%;height:100%;object-fit:contain;">
+                    </div>
+                    <div class="rich-notification-content">
+                        <div class="rich-notification-title">
+1187 <div class="title-bar">
+1188 translateY(100%)
+1189 figContent
+1190 maxY
+1191 bootScreenContentPaddingTop
+1192 </a>
+1193 .messenger-send-btn
+1194 badge
+1195 Daft Punk
+1196 showLoadingCursor
+1197 icons/paint/paint.png
+1198 coverEl
+1199 color: green; font-weight: bold
+1200 " (
+1201 px, 
+1202 Inter
+1203 " is no longer buried — skipping.
+1204 .storage-sidebar
+1205 lineTo
+1206 --fair-boot-loader-track-height
+1207 _ownerStatus
+1208 os_startmenu_seen_v1
+1209 .results-content
+1210 clientHeight
+1211 suspended
+1212 nowrap
+1213 getHours
+1214 startRenotify
+1215 showcase-workspace
+1216 File Error - Using Cached
+1217 0 0 0 2px 
+1218 %c[ChatMemory] Restored 
+1219 firstFocusRenotifyDone
+1220 messages
+1221 dataset
+1222 </div>
+                                        <div class="showcase-comment-author">
+1223 includeActive
+1224 .fig-action-btn
+1225 https://i.ytimg.com/vi/8vawd7fSzdA/maxresdefault.jpg
+1226 %;transform:translate(-50%,-50%);pointer-events:none;line-height:0;z-index:2;
+1227 paddingRight
+1228 innerHTML
+1229 file_sys/
+1230 #notification-icons-container img
+1231  style="
+1232 top
+1233 [fig]
+1234 Presentation
+1235 OS: Some resources failed to load:
+1236 .content img
+1237 importNode
+1238 delayed
+1239 OS: Received startup_visible signal, applying frontpane background
+1240 transform 1s cubic-bezier(0.4, 0, 0.2, 1)
+1241 splice
+1242 px); } }
+1243 items
+1244 .next-arrow
+1245 type
+1246 catch
+1247 .play-pause
+1248 --video-volume-button-scale
+1249 translate(
+1250 true
+1251 _unreadCount
+1252 watching
+1253 data
+1254 className
+1255 checkCondition
+1256 Xm8UTv6LSf0
+1257 marquee-anim 
+1258 
+                                <div class="messenger-contact-avatar">
+1259 openWindow
+1260 durationchange
+1261 assets/
+1262 Click sound blocked:
+1263 &sinceId=
+1264 received
+1265 TEXT_NODE
+1266 triangle
+1267 .notepad-status-text
+1268 online
+1269 column
+1270 loading
+1271 charAt
+1272 showcase-layer-item
+1273 .video-seek-bar
+1274 toLowerCase
+1275 Saturday
+1276 pointerenter
+1277 San Holo
+1278 https://i.ytimg.com/vi/2BE6hOkOyrE/maxresdefault.jpg
+1279 ↻ Retry
+1280 fillStyle
+1281 paint-brush-crosshair
+1282 indexOf
+1283 Classic
+1284 application/json
+1285 ellipse
+1286 cloneNode
+1287 lastSeen
+1288 clear
+1289 object
+1290 click
+1291 player_state
+1292 
+                            </div>
+                            <div class="showcase-card-frame" style="padding:0;background:
+1293 showInTaskbar
+1294 resurfacedNudgeIds
+1295 https://i.ytimg.com/vi/D7ab595h0AU/maxresdefault.jpg
+1296 getActiveMessengerContactId
+1297 decode
+1298 loadAnimation
+1299 clientWidth
+1300 messenger-action-chevron
+1301 .paint-tool-btn[data-tool="eraser"]
+1302 avlEK3PTvw8
+1303 3ryk45IYJpk
+1304 ended
+1305 paint-move
+1306 https://i.ytimg.com/vi/K0q2VeNUssY/maxresdefault.jpg
+1307 waiting
+1308 4Ba_qTPA4Ds
+1309 " target="_blank">
+1310 October
+1311 --target-x
+1312 placeholder
+1313 </div>
+                                    </div>
+1314 OS: openPath function not defined
+1315 muted
+1316 nudge
+1317 length
+1318 includes
+1319 offsetX
+1320 .maximize-btn
+1321 color: cyan; font-weight: bold
+1322 OS suspended
+1323 icons/computer.png
+1324 history
+1325 card
+1326 closePath
+1327 https://i.ytimg.com/vi/PMivT7MJ41M/maxresdefault.jpg
+1328 fairBootLoaderBlockGradientStart
+1329 .paint-tool-btn[data-tool="brush"]
+1330 delete
+1331 <div class="title-bar-icon">
+1332 documentElement
+1333 fairBootContentFadeInDurationMs
+1334 updateUI
+1335 search-result-item
+1336 bootScreenLineHeight
+1337 NOTEPAD_SESSION_CACHE
+1338 paint-brush-size
+1339 clearRenotify
+1340 --crt-scanline-show-min
+1341 videoFile
+1342 open_path
+1343 <div class="title-bar"><span class="title-text">
+1344 balloon-
+1345 .window:not(.hidden) iframe
+1346 bio
+1347 %c[Renotify] STOPPED for "
+1348 frames
+1349 .start-menu
+1350 nextOptions
+1351 meChatHasExchange
+1352 0px
+1353 Loading...
+1354 zYtOIAblUHs
+1355 HTTP error! status: 
+1356 globalTimeline
+1357 cursor-loading
+1358 width:auto;max-width:550px;max-height:550px;object-fit:contain;display:block;cursor:pointer;
+1359 fadeToBlackDurationMs
+1360 postMessage
+1361 inactivityCheckInterval
+1362 exit
+1363 Refreshing...
+1364 window-video-player
+1365 .notepad-char-count
+1366 resurfaceTimers
+1367 complete
+1368 @keyframes marquee-anim { 0% { transform: translateX(-
+1369 canplay
+1370 none
+1371 link
+1372 </div>
+                                        <div class="showcase-comment-text">
+1373 </a>
+                            </div>
+                            <div class="showcase-card-frame">
+                                <div class="showcase-frame-label">
+1374 .rich-notification-message
+1375 input
+1376 createTextNode
+1377 --video-play-button-scale
+1378 OS: Max zoom reached
+1379 .desktop-icon.selected
+1380 unreadCounts
+1381 idle
+1382 2GcphzXKNps
+1383 updateState
+1384 28px
+1385 sfx/shutdown.mp3
+1386 That's What I Like
+1387 showcase-row
+1388 6px 18px
+1389 keys
+1390 message
+1391 " class="rich-notification-avatar" onerror="this.src='icons/folder.png'">
+1392 shutdownStart
+1393 isMuted
+1394 https://portfolio-chat-worker.ishantperiwal.workers.dev
+1395 bootScreenContentFadeInDurationMs
+1396 solo-refresh-btn
+1397 revokeObjectURL
+1398 getContext
+1399 
+                                <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
+                                Portfolio
+                            
+1400 icons/recycleBin.png
+1401 overlay.png
+1402 armed
+1403 inline-block
+1404 stop
+1405 updateMessengerBadge
+1406 actions
+1407 idleTime
+1408 mock-browser-template
+1409 .messenger-input
+1410 showcase-layer-separator
+1411 points
+1412 stopRenotifyOnRead
+1413 hiding
+1414 scale
+1415 " draggable="false"
+1416 .video-loading-overlay
+1417 Network error
+1418 Enter
+1419 min
+1420 flipY
+1421 trim
+1422 running
+1423 boot_complete
+1424 Failed to load notepad file:
+1425 setupStartupTriggers
+1426 remove
+1427 timeupdate
+1428 width:100%;
+1429 --boot-screen-content-padding-top
+1430 Error parsing setVar instruction:
+1431 resurface
+1432 shift
+1433 " draggable="false">
+1434 join
+1435 _onClick
+1436 timer
+1437 OS: boot desktop captured for monitor texture (
+1438 loading-block
+1439 February
+1440 __osBeginBootTime
+1441 animation
+1442 auto_relax
+1443 VT323,monospace
+1444 35JhxGnH_4s
+1445  target="_blank" rel="noopener"
+1446 __blobUrlPromises
+1447 width
+1448 INPUT
+1449 exponentialRampToValueAtTime
+1450 Plugins I built to ease up my workflow
+1451 designation
+1452 removeProperty
+1453 hidden
+1454 windowId
+1455 ArrowRight
+1456 payload
+1457 __me__
+1458 forEach
+1459 iconSVG
+1460 .prev-arrow
+1461 url('
+1462 resolve
+1463 hideLoadingCursor
+1464 transition
+1465 ms | html2canvas raster: 
+1466 deltaX
+1467 replaceChild
+1468 </span></div></div>
+1469 __transitionPerfMode
+1470 select
+1471 animationDuration
+1472 <span>Failed to load</span>
+1473 window hidden
+1474 all
+1475 isContentEditable
+1476 notepad
+1477 videoPlayButtonScale
+1478 showcase-canvas
+1479 focus
+1480 Titan
+1481 %c[Resurface] STOPPED for "
+1482 ceil
+1483 hi, how are you?
+1484 dev-controls
+1485 https://i.ytimg.com/vi/UnyLfqpyi94/maxresdefault.jpg
+1486 notification-icon
+1487 , end) infinite
+1488 November
+1489 fairBootLoaderBorderWidth
+1490 chatKey
+1491   Principal Product Designer......2026-Present
+1492 </div>
+1493 localStorage
+1494 Avatar
+1495 " class="pdf-iframe" style="position: relative; z-index: 2; width: 100%; height: 100%; border: none; background-color: transparent;" onload="var f=this.parentElement.querySelector('.pdf-fallback');if(f)f.style.display='none';"></iframe>
+                
+1496  new messages
+1497 messenger-action-item
+1498 bootSequenceRandomnessMs
+1499   Sr. Motion Graphic Designer.....2021
+1500 
+                    <div class="paint-container">
+                        <div class="paint-canvas-wrapper">
+                            <canvas class="paint-canvas" width="1250" height="880"></canvas>
+                        </div>
+                        <div class="paint-tool-panel">
+                            <button class="paint-tool-btn active" data-tool="brush"><img data-blob-src="icons/paint/brush.png" style="width:28px;height:28px;"></button>
+                            <button class="paint-tool-btn" data-tool="eraser"><img data-blob-src="icons/paint/eraser.png" style="width:28px;height:28px;"></button>
+                            <button class="paint-tool-btn" data-tool="fill"><img data-blob-src="icons/paint/fill.png" style="width:28px;height:28px;"></button>
+                            <button class="paint-tool-btn" data-tool="line"><img data-blob-src="icons/paint/line.png" style="width:28px;height:28px;"></button>
+                            <button class="paint-tool-btn" data-tool="rect"><img data-blob-src="icons/paint/rect.png" style="width:28px;height:28px;"></button>
+                            <button class="paint-tool-btn" data-tool="ellipse"><img data-blob-src="icons/paint/ellipse.png" style="width:28px;height:28px;"></button>
+                            <button class="paint-tool-btn" data-tool="polygon"><img data-blob-src="icons/paint/polygon.png" style="width:28px;height:28px;"></button>
+                            <button class="paint-tool-btn" data-tool="select"><img data-blob-src="icons/paint/select.png" style="width:28px;height:28px;"></button>
+                            <button class="paint-tool-btn" data-action="undo"><img data-blob-src="icons/paint/undo.png" style="width:28px;height:28px;"></button>
+                            <button class="paint-tool-btn" data-action="redo"><img data-blob-src="icons/paint/redo.png" style="width:28px;height:28px;"></button>
+                            <button class="paint-tool-btn" data-action="clear"><img data-blob-src="icons/paint/clearall.png" style="width:28px;height:28px;"></button>
+                            <button class="paint-tool-btn" data-action="save-preset" id="paint-save-preset-btn" style="display:none;" title="Download current canvas as startdrawing.png (solo only)"><img data-blob-src="icons/paint/capture.png" style="width:28px;height:28px;"></button>
+                        </div>
+                        <div class="paint-brush-slider" id="paint-brush-slider" style="display:none;">
+                            <span class="paint-brush-label">Size</span>
+                            <input type="range" id="paint-brush-size" min="1" max="40" value="8">
+                            <span class="paint-brush-value" id="paint-brush-value">8</span>
+                        </div>
+                        <div class="paint-color-panel">
+                            <div class="paint-current-color" style="background-color:#333333;" id="paint-current-color"></div>
+                            <div class="paint-color-grid">
+                                <div class="paint-color-btn active" style="background-color: #333333;" data-color="#333333"></div>
+                                <div class="paint-color-btn" style="background-color: #989898;" data-color="#989898"></div>
+                                <div class="paint-color-btn" style="background-color: #A64444;" data-color="#A64444"></div>
+                                <div class="paint-color-btn" style="background-color: #9D9D44;" data-color="#9D9D44"></div>
+                                <div class="paint-color-btn" style="background-color: #449D44;" data-color="#449D44"></div>
+                                <div class="paint-color-btn" style="background-color: #449D9D;" data-color="#449D9D"></div>
+                                <div class="paint-color-btn" style="background-color: #44449D;" data-color="#44449D"></div>
+                                <div class="paint-color-btn" style="background-color: #9D449D;" data-color="#9D449D"></div>
+                                <div class="paint-color-btn" style="background-color: #9D9D6C;" data-color="#9D9D6C"></div>
+                                <div class="paint-color-btn" style="background-color: #447575;" data-color="#447575"></div>
+                                <div class="paint-color-btn" style="background-color: #449DFF;" data-color="#449DFF"></div>
+                                <div class="paint-color-btn" style="background-color: #446C9D;" data-color="#446C9D"></div>
+                                <div class="paint-color-btn" style="background-color: #9D4CFF;" data-color="#9D4CFF"></div>
+                                <div class="paint-color-btn" style="background-color: #9D7566;" data-color="#9D7566"></div>
+                                <div class="paint-color-btn" style="background-color: #FFFFFF;" data-color="#FFFFFF"></div>
+                                <div class="paint-color-btn" style="background-color: #CECECE;" data-color="#CECECE"></div>
+                                <div class="paint-color-btn" style="background-color: #FF4C4C;" data-color="#FF4C4C"></div>
+                                <div class="paint-color-btn" style="background-color: #FFFF4C;" data-color="#FFFF4C"></div>
+                                <div class="paint-color-btn" style="background-color: #4CFF4C;" data-color="#4CFF4C"></div>
+                                <div class="paint-color-btn" style="background-color: #4CFFFF;" data-color="#4CFFFF"></div>
+                                <div class="paint-color-btn" style="background-color: #4C4CFF;" data-color="#4C4CFF"></div>
+                                <div class="paint-color-btn" style="background-color: #FF4CFF;" data-color="#FF4CFF"></div>
+                                <div class="paint-color-btn" style="background-color: #FFFF9D;" data-color="#FFFF9D"></div>
+                                <div class="paint-color-btn" style="background-color: #4CFF9D;" data-color="#4CFF9D"></div>
+                                <div class="paint-color-btn" style="background-color: #9DFFFF;" data-color="#9DFFFF"></div>
+                                <div class="paint-color-btn" style="background-color: #9D9DFF;" data-color="#9D9DFF"></div>
+                                <div class="paint-color-btn" style="background-color: #FF4C9D;" data-color="#FF4C9D"></div>
+                                <div class="paint-color-btn" style="background-color: #FF9D6C;" data-color="#FF9D6C"></div>
+                            </div>
+                        </div>
+                    </div>
+1501 </a>
+                                    </div>
+                                    <div class="showcase-card-frame" style="padding:0;background:
+1502 > Loading 3D Environment...
+1503 Send me a message...
+1504 16px
+1505 timeEnd
+1506 mock-browser
+1507 OS: relax_from_parent received, resetting isInteracting
+1508 fairBootContent
+1509 target
+1510 isSolo
+1511 rotate(
+1512 .fig-recenter-btn
+1513 previousSibling
+1514 solo
+1515   Motion Graphic Designer.........2018-2021
+1516 %"></div></div><div class="evt">
+1517 '><rect width='1' height='
+1518 </div>
+                                <div class="subtext">
+1519 layoutId
+1520 toISOString
+1521 playerRootEl
+1522 
+                            <div class="card-action-bar">
+                                
+1523   Principal Product Designer......2026
+1524 a newer message surfaced in this chat
+1525 pdfFile
+1526 icons/ae.png
+1527 transitionDuration
+1528 Disabled
+1529 status
+1530 . visitedZeta=
+1531 https://i.ytimg.com/vi/K4IrOZnyV4Y/maxresdefault.jpg
+1532 active
+1533 padStart
+1534 title-bar-icon
+1535 unread
+1536 OS: Pre-click prewarm of 
+1537 renotifyTimers
+1538 grabbing
+1539 maxX
+1540 https://i.ytimg.com/vi/KS1LC83Nf0w/maxresdefault.jpg
+1541 crt-scanline-overlay
+1542 %c[openPath] %cMissing config for 
+1543 push
+1544 avatar
+1545 Ready
+1546 icons/music.png
+1547 openVideo
+1548 suspend
+1549 
+                    <div class="pdf-fallback" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: #f5f5f5; user-select: none;">
+                        <div style="display: flex; flex-direction: column; align-items: center; transform: scale(
+1550 _isRead
+1551 remote_music_prev
+1552 values
+1553 3838910XozEFx
+1554 </div>
+                                <div class="messenger-contact-info">
+                                    <div class="messenger-contact-name">
+1555 %c[openPath] %cNot found: 
+1556 messenger-bubble system-offline
+1557 https://i.ytimg.com/vi/35JhxGnH_4s/maxresdefault.jpg
+1558 window-after-effects
+1559 1 new message
+1560 CHAT_API_BASE not set
+1561 ms ease
+1562 icons/figma.png
+1563  active
+1564 wallpaperUrl
+1565 disabled
+1566 high
+1567 icons/programs.png
+1568 ' fill='rgba(0,0,0,
+1569 just now
+1570 frontpaneUrl
+1571 Thursday
+1572 contains
+1573 __bootExpandDone
+1574 It's Only
+1575 slide
+1576 linearRampToValueAtTime
+1577 width:100%;height:auto;display:block;
+1578 scrollHeight
+1579 absolute
+1580 open
+1581 setValueAtTime
+1582 wheel
+1583 innerHeight
+1584 ae-prank-banner
+1585 notifications
+1586 --boot-screen-line-height
+1587 isPaused
+1588 fairBootTransitionDelayMs
+1589 start-menu-item
+1590 startup
+1591 playlist

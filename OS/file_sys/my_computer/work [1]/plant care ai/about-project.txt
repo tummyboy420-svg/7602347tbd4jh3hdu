@@ -1,0 +1,3 @@
+# Plant Care AI
+
+An AI-powered application for monitoring and providing care recommendations for plants.
