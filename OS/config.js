@@ -1967,6 +1967,20 @@ window.DEFAULT_OS_CONFIG = {
                             "type": "openWindow",
                             "payload": "window-work-seizure"
                         }
+                    },
+                    {
+                        "id": "presentation-folder",
+                        "name": "presentation",
+                        "displayName": "presentation",
+                        "iconType": "folder",
+                        "description": "",
+                        "iconSVG": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"#F9E79F\" d=\"M10 4H4c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.11-.9-2-2h-8l-2-2z\"/></svg>",
+                        "badge": null,
+                        "shortcutAddress": null,
+                        "action": {
+                            "type": "openWindow",
+                            "payload": "window-work-presentation"
+                        }
                     }
                 ]
             }
@@ -2349,6 +2363,40 @@ window.DEFAULT_OS_CONFIG = {
                         }
                     }
                 ]
+            }
+        },
+        "window-work-presentation": {
+            "title": "presentation",
+            "width": 800,
+            "height": 600,
+            "top": "15%",
+            "left": "25%",
+            "content": {
+                "type": "storage",
+                "payload": [
+                    {
+                        "id": "ascari-pdf",
+                        "name": "ASCARI.pdf",
+                        "iconType": "workfile",
+                        "description": "",
+                        "iconSVG": "",
+                        "action": {
+                            "type": "openWindow",
+                            "payload": "window-url-ascari-pdf"
+                        }
+                    }
+                ]
+            }
+        },
+        "window-url-ascari-pdf": {
+            "title": "ASCARI Presentation",
+            "width": 1050,
+            "height": 700,
+            "top": "10%",
+            "left": "15%",
+            "content": {
+                "type": "iframe",
+                "payload": "file_sys/my_computer/work [1]/presentation/ASCARI.pdf"
             }
         }
     },
